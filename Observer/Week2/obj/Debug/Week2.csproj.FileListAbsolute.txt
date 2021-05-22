@@ -1,0 +1,24 @@
+D:\o C cu\Study\Block8\DPR\Week2\Week2\bin\Debug\Week2.exe.config
+D:\o C cu\Study\Block8\DPR\Week2\Week2\bin\Debug\Week2.exe
+D:\o C cu\Study\Block8\DPR\Week2\Week2\bin\Debug\Week2.pdb
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.Properties.Resources.resources
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.PullForm.resources
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.PushForm.resources
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.Form1.resources
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.csproj.GenerateResource.cache
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.exe
+D:\o C cu\Study\Block8\DPR\Week2\Week2\obj\Debug\Week2.pdb
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.Properties.Resources.resources
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.PullForm.resources
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.PushForm.resources
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.Form1.resources
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.csproj.GenerateResource.cache
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.exe
+C:\Users\barra\Desktop\dpr\Week2\Week2\obj\Debug\Week2.pdb
+C:\Users\barra\Desktop\dpr\Week2\Week2\bin\Debug\Week2.exe.config
+C:\Users\barra\Desktop\dpr\Week2\Week2\bin\Debug\Week2.exe
+C:\Users\barra\Desktop\dpr\Week2\Week2\bin\Debug\Week2.pdb

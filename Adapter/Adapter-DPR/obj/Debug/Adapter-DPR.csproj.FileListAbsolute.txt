@@ -1,0 +1,10 @@
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\obj\Debug\Adapter-DPR.csprojAssemblyReference.cache
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\obj\Debug\Adapter_DPR.Form1.resources
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\obj\Debug\Adapter_DPR.Properties.Resources.resources
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\obj\Debug\Adapter-DPR.csproj.GenerateResource.cache
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\obj\Debug\Adapter-DPR.csproj.CoreCompileInputs.cache
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\bin\Debug\Adapter-DPR.exe.config
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\bin\Debug\Adapter-DPR.exe
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\bin\Debug\Adapter-DPR.pdb
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\obj\Debug\Adapter-DPR.exe
+D:\o C cu\Study\Block8\DPR\Adapter-DPR\Adapter-DPR\obj\Debug\Adapter-DPR.pdb

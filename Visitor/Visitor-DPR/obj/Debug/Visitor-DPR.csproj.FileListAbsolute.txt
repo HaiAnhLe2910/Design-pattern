@@ -1,0 +1,20 @@
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\bin\Debug\Visitor-DPR.exe.config
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\bin\Debug\Visitor-DPR.exe
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\bin\Debug\Visitor-DPR.pdb
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.csprojAssemblyReference.cache
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor_DPR.Properties.Resources.resources
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.csproj.GenerateResource.cache
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.csproj.CoreCompileInputs.cache
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.exe
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.pdb
+D:\o C cu\Study\Block8\DPR\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor_DPR.Form1.resources
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.csprojAssemblyReference.cache
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor_DPR.Form1.resources
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor_DPR.Properties.Resources.resources
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.csproj.GenerateResource.cache
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.csproj.CoreCompileInputs.cache
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.exe
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\obj\Debug\Visitor-DPR.pdb
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\bin\Debug\Visitor-DPR.exe.config
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\bin\Debug\Visitor-DPR.exe
+C:\Users\ahmat\Desktop\Visitor-DPR\Visitor-DPR\bin\Debug\Visitor-DPR.pdb

@@ -1,0 +1,10 @@
+D:\o C cu\Study\Block8\DPR\Week1\Week1\obj\Debug\Week1.csprojAssemblyReference.cache
+D:\o C cu\Study\Block8\DPR\Week1\Week1\obj\Debug\Week1.Form1.resources
+D:\o C cu\Study\Block8\DPR\Week1\Week1\obj\Debug\Week1.Properties.Resources.resources
+D:\o C cu\Study\Block8\DPR\Week1\Week1\obj\Debug\Week1.csproj.GenerateResource.cache
+D:\o C cu\Study\Block8\DPR\Week1\Week1\obj\Debug\Week1.csproj.CoreCompileInputs.cache
+D:\o C cu\Study\Block8\DPR\Week1\Week1\bin\Debug\Week1.exe.config
+D:\o C cu\Study\Block8\DPR\Week1\Week1\bin\Debug\Week1.exe
+D:\o C cu\Study\Block8\DPR\Week1\Week1\bin\Debug\Week1.pdb
+D:\o C cu\Study\Block8\DPR\Week1\Week1\obj\Debug\Week1.exe
+D:\o C cu\Study\Block8\DPR\Week1\Week1\obj\Debug\Week1.pdb

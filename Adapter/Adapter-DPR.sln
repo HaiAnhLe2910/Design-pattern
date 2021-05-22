@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter-DPR", "Adapter-DPR\Adapter-DPR.csproj", "{2BE933BE-74E8-4B25-9CB2-C70B89686E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE933BE-74E8-4B25-9CB2-C70B89686E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE933BE-74E8-4B25-9CB2-C70B89686E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE933BE-74E8-4B25-9CB2-C70B89686E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE933BE-74E8-4B25-9CB2-C70B89686E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A2838F-D1E7-4CAF-81E8-6CF6BA262814}
+	EndGlobalSection
+EndGlobal
